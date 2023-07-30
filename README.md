@@ -8,7 +8,7 @@ In these four courses, you will cover everything from the architecting of large 
 | `Introduction to Django Rest Framework` | Introduction to the the Django REST framework and handling JSON within the context of APIs, fundamentals such as serialization ViewSheets, and authentication/permissions.|
 | `Advanced Django Rest Framework` | Testing, performance considerations such as caching and throttling, use of 3rd party libraries, and integrating frontends within the context of the Django REST framework.|
 | `External APIs and Task Queuing` | Connecting to external APIs, task queuing, and pulling together the topics across the specialization in capstone projects.
-|
+
 
 Links and Appendix
 ========================================================
