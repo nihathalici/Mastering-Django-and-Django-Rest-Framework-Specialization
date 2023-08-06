@@ -2,6 +2,13 @@
 
 These assignments cover creating a blog in Django, generic relationships, the Bootstrap HTML framework, filters, tags, and crispy forms. The module ends with graded coding exercises.
 
+* Setup a blog application in Django
+* Configure the dev server to run inside the Codio platform
+* Run database migrations
+* Create the Tag and Post models
+* Register the Tag and Post models with Django Admin
+* Create a post through Django Admin
+
 Links and Appendix
 ========================================================
 Offered by Codio via Coursera
