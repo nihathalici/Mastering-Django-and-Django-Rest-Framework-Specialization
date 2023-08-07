@@ -8,6 +8,10 @@ These assignments cover creating a blog in Django, generic relationships, the Bo
 * Create the Tag and Post models
 * Register the Tag and Post models with Django Admin
 * Create a post through Django Admin
+* Identify limitations of not using generic relationships
+* Dynamically access models using the contenttypes framework
+* Create generic relationships between different models
+* Use GenericRelation for reverse queries
 
 Links and Appendix
 ========================================================
