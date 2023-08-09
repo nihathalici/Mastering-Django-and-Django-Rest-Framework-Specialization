@@ -20,6 +20,13 @@ These assignments cover creating a blog in Django, generic relationships, the Bo
 * Create columns within the container
 * Manually set the width of a column
 * Set the width of a column relative to a breakpoint
+* Use built-in filters in a Django template
+* Create custom template tags for the posts
+* Create a custom filter and add it to a template
+* Render text safe to increase the security of the blog
+* Pass an argument to a filter
+* Identify why custom template tags can be better than filters
+* Create a simple tag
 
 Links and Appendix
 ========================================================
