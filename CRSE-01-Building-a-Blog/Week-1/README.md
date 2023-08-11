@@ -31,6 +31,10 @@ These assignments cover creating a blog in Django, generic relationships, the Bo
 * Use a template inside another template with inclusion tags
 * Identify when to use an advanced template tag
 * Render a Django form
+* Setup a Django project to use Crispy Forms
+* Use Crispy on an existing form
+* Use FormHelper to customize a form
+* Simplify a form with the crispy template tag
 
 Links and Appendix
 ========================================================
