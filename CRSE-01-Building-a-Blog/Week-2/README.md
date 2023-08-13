@@ -1,5 +1,6 @@
 # Building a Blog | Week-2
 
+These assignments cover 12 factor apps, configuring Django, logging, security, and hosting. 
 
 Links and Appendix
 ========================================================
