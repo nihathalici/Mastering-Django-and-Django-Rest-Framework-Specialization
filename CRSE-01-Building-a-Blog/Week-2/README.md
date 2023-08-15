@@ -5,6 +5,9 @@ These assignments cover 12 factor apps, configuring Django, logging, security, a
 * Identify the importance of 12 Factor Apps
 * Define each of the 12 factors
 * Define environment variable
+* Reference, set, and override environment variables
+* Use environment variables to configure your Django project
+* Identify the different logging levels
 
 Links and Appendix
 ========================================================
