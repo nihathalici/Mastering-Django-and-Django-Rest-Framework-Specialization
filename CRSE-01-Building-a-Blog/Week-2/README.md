@@ -12,6 +12,9 @@ These assignments cover 12 factor apps, configuring Django, logging, security, a
 * Use a formatter to provide more context to logging messages
 * Identify import logging concepts that go beyond 12 Factor Apps
 * Identify the ways in which Django is secure by default
+* Define hashing and explain why it is important
+* Define salting
+* Explain how Django stores passwords
 
 Links and Appendix
 ========================================================
