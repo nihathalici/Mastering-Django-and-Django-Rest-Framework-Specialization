@@ -8,6 +8,10 @@ These assignments cover 12 factor apps, configuring Django, logging, security, a
 * Reference, set, and override environment variables
 * Use environment variables to configure your Django project
 * Identify the different logging levels
+* Add a logger to your Django project
+* Use a formatter to provide more context to logging messages
+* Identify import logging concepts that go beyond 12 Factor Apps
+* Identify the ways in which Django is secure by default
 
 Links and Appendix
 ========================================================
