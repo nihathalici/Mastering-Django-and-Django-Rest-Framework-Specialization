@@ -15,6 +15,9 @@ These assignments cover 12 factor apps, configuring Django, logging, security, a
 * Define hashing and explain why it is important
 * Define salting
 * Explain how Django stores passwords
+* Define the different methods of production hosting
+* Explain the pros and cons of each production hosting method
+* Describe the different factors that you should consider when selecting a hosting solution
 
 Links and Appendix
 ========================================================
