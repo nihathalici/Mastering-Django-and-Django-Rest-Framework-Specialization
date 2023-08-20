@@ -1,5 +1,6 @@
 # Building a Blog | Week-3
 
+These assignments cover increasing performance by caching and optimizing the database. The module ends with graded coding exercises.
 
 Links and Appendix
 ========================================================
